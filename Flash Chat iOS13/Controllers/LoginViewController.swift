@@ -13,7 +13,7 @@ class LoginViewController: UIViewController {
                 if let e = error {
                     print(e)
                 } else {
-                    self.performSegue(withIdentifier: K.registerSegue, sender: self)
+                    self.performSegue(withIdentifier: K.loginSegue, sender: self)
                 }
                
             }
