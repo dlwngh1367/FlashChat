@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/PromisesObjC/Sources/FBLPromises/FBLPromiseError.m \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h

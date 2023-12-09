@@ -1,6 +1,6 @@
 platform :ios, '13.0'
 
-target 'Flash Chat iOS13' do
+target 'Juho Chat' do
       
   use_frameworks!
 

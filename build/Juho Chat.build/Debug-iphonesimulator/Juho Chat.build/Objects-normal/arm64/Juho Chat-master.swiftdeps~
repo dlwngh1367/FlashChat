@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "16bdbd3ba0e3d96bb1499e7818d5782847a2de41f8d9453577d86462f946951d"
+build_start_time: [1702086122, 69285000]
+build_end_time: [1702086122, 98105000]
+inputs:
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/AppDelegate.swift": !private [1702081070, 335106813]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/Constants.swift": !private [1701906663, 145139964]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/Controllers/ChatViewController.swift": !private [1702083504, 633057365]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/Controllers/LoginViewController.swift": !private [1701906961, 177820255]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/Controllers/RegisterViewController.swift": !private [1701906951, 856325947]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/Controllers/WelcomeViewController.swift": !private [1702084345, 262848438]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/SceneDelegate.swift": !private [1701554378, 658564135]
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Juho Chat/Views/MessageCell.swift": !private [1702082879, 747112817]

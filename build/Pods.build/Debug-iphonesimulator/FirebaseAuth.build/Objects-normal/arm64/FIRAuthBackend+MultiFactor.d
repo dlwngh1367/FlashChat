@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.m \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentRequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRIdentityToolkitRequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAppCheck/Interop/FIRAppCheckInterop.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneRequestInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/FIRAuthProto.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPEnrollmentRequestInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentResponse.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneResponseInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPEnrollmentResponseInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentRequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneRequestInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAppCredential.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoStartMFATOTPEnrollmentRequestInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentResponse.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneResponseInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoStartMFATOTPEnrollmentResponseInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInRequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPSignInRequestInfo.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInResponse.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInRequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInResponse.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFARequest.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFAResponse.h

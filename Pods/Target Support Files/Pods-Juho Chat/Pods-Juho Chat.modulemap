@@ -1,0 +1,6 @@
+framework module Pods_Juho_Chat {
+  umbrella header "Pods-Juho Chat-umbrella.h"
+
+  export *
+  module * { export * }
+}

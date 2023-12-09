@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "541017fbc5dac72a352441cc31864b92583a9197f094a8d4002e1adc390d703d"
+build_start_time: [1702086027, 121009000]
+build_end_time: [1702086027, 155601000]
+inputs:
+  "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/CLTypingLabel/Pod/Classes/CLTypingLabel.swift": !private [1702085665, 313251393]

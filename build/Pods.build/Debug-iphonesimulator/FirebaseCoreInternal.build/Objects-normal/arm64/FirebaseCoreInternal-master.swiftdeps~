@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "d185907e9cc96cc82929e0ba7c881ca8401445bfe8f8b393794d6f18af173589"
+build_start_time: [1702086027, 570198000]
+build_end_time: [1702086027, 611111000]
+inputs:
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1702085665, 424846098]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1702085665, 425834136]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1702085665, 426295051]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1702085665, 426494801]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1702085665, 427012549]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1702085665, 427297173]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1702085665, 425025097]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1702085665, 424661557]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1702085665, 427421339]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1702085665, 427155673]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1702085665, 425598054]
+  ? "/Users/juho/Desktop/IOS Projects/Juho Chat/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1702085665, 426082177]

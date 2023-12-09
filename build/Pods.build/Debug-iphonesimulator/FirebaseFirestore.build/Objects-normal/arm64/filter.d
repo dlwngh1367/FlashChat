@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/core/src/core/filter.cc \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/core/src/core/filter.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/core/src/model/model_fwd.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/nanopb/pb.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/Pods/FirebaseFirestore/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/types/optional.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/utility/utility.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/inline_variable.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/invoke.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/types/bad_optional_access.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/types/internal/optional.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/memory/memory.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/juho/Desktop/IOS\ Projects/Juho\ Chat/build/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h
