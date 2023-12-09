@@ -1,4 +1,4 @@
-#Juho Chat
+# Juho Chat
 
 This app is a chat application that utilizes a database and various 3rd-party libraries. I installed the CLTypeingLabel library, a 3rd-party library, using CocoaPods, and employed timers and loops to add motion when displaying the app name on the launch screen. I downloaded the pod file and applied the library accordingly.
 
@@ -8,8 +8,17 @@ The upper-right navigation bar features a logout button. Clicking on it triggers
 
 The Firebase project management page is used to oversee all messages and users.
 
-
+# User 1
 https://github.com/dlwngh1367/FlashChat/assets/107776511/26c599ee-d30e-4722-93a6-5ffc831836f6
 
+# User 2
 https://github.com/dlwngh1367/Juho-Chat/assets/107776511/e07bef36-51ff-430d-adbb-a2eac097f2e8
 
+# Firebase Authentication
+<img width="1183" alt="Firebase Authentication" src="https://github.com/dlwngh1367/Clima/assets/107776511/a7b5bda2-a1fe-4ef0-b073-b74e0d6b33b3">
+
+# Firestore database system
+<img width="1239" alt="Firestore Database system" src="https://github.com/dlwngh1367/Clima/assets/107776511/d9d04607-bdca-4c8e-96f6-0486277ae1ee">
+
+# Firestore rules
+<img width="1232" alt="Database rules" src="https://github.com/dlwngh1367/Clima/assets/107776511/0382c0cc-9e73-4c90-824a-6e067b970c26">
